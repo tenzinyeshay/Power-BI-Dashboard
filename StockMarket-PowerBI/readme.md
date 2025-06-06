@@ -33,7 +33,7 @@ To view and interact with this Power BI dashboard:
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/tenzinyeshay/StockMarket-PowerBi.git
+    git clone https://github.com/tenzinyeshay/StockMarket-PowerBI.git
     ```
     
 2.  **Open the Power BI File:** Locate the `StockDashboard.pbix` file 
